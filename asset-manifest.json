@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SweetPhi_foodwebsite/static/css/main.1bce4fae.css",
+    "main.js": "/SweetPhi_foodwebsite/static/js/main.33e13a63.js",
+    "index.html": "/SweetPhi_foodwebsite/index.html",
+    "main.1bce4fae.css.map": "/SweetPhi_foodwebsite/static/css/main.1bce4fae.css.map",
+    "main.33e13a63.js.map": "/SweetPhi_foodwebsite/static/js/main.33e13a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bce4fae.css",
+    "static/js/main.33e13a63.js"
+  ]
+}
